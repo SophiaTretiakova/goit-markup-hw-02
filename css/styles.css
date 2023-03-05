@@ -104,6 +104,9 @@ body{
 .address:focus{
     color:var(--pressed-state);
 }
+.first-title-section{
+    background-color:var(--headers-color);
+}
 .title-section{
   background-color:var(--headers-color);
   border: none;
@@ -128,6 +131,7 @@ body{
     letter-spacing: 0.02em;
 }
 .section-header{
+    color: var(--headers-color);
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -181,7 +185,7 @@ body{
     color: #fff;
 }
 .portfolio-sample-title{
-    color: var(--text-color);
+    color: var(--headers-color);
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
