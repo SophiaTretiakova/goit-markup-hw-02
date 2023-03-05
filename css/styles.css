@@ -32,10 +32,10 @@ body{
     font-style: normal;
     letter-spacing: 0.02em;
 }
-.list:hover{
+.link:hover{
     color: var(--pressed-state);
 }
-.list:focus{
+.link:focus{
     color: var(--pressed-state);
 }
 .menu{
