@@ -106,6 +106,7 @@ body{
 }
 .first-title-section{
     background-color:var(--headers-color);
+    color: var(--headers-color);
 }
 .title-section{
   background-color:var(--headers-color);
@@ -122,10 +123,10 @@ body{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--text-color);
+    color: var(--headers-color);
 }
 .advantage-paragraph{
-    color: var(--text-color);
+    color: var(text-color);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -140,7 +141,7 @@ body{
     text-transform: capitalize;
 }
 .team-members-name{
-    color: var(--text-color);
+    color: var(--headers-color);
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
