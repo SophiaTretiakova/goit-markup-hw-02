@@ -94,7 +94,6 @@ body{
     font-family: 'Roboto';
     color: var(--text-color);
     font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;letter-spacing: 0.02em;
 }
@@ -106,10 +105,8 @@ body{
 }
 .first-title-section{
     background-color:var(--headers-color);
-    color: var(--headers-color);
 }
 .title-section{
-  background-color:var(--headers-color);
   border: none;
   color: #fff;
   font-weight: 700;
@@ -196,11 +193,9 @@ body{
 .team-members-list{
     background-color:#fff ;
 }
-footer-paragraph{
-    font-family: 'Roboto';
+.footer-paragraph{
     color: #E7E9FC;
-    left: 0px;
-    top: 2280px;
+    font-family: 'Roboto';
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
