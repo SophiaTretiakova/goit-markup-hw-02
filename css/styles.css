@@ -154,13 +154,7 @@ body{
     letter-spacing: 0.02em;
 }
 .footer{
-    color: #E7E9FC;
     background-color: var(--headers-color);
-    left: 0px;
-    top: 2280px;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
 }
 .portfolio-navigation-button{
     font-family: "Roboto", sans-serif;
@@ -201,4 +195,13 @@ body{
 }
 .team-members-list{
     background-color:#fff ;
+}
+footer-paragraph{
+    font-family: 'Roboto';
+    color: #E7E9FC;
+    left: 0px;
+    top: 2280px;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
