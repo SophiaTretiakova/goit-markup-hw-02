@@ -126,7 +126,7 @@ body{
     color: var(--headers-color);
 }
 .advantage-paragraph{
-    color: var(text-color);
+    color: var(--text-color);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -156,8 +156,6 @@ body{
 .footer{
     color: #E7E9FC;
     background-color: var(--headers-color);
-    width: 1440px;
-    height: 310px;
     left: 0px;
     top: 2280px;
     font-size: 16px;
@@ -197,4 +195,10 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.last-section{
+    background-color:#F4F4FD ;
+}
+.team-members-list{
+    background-color:#fff ;
 }
